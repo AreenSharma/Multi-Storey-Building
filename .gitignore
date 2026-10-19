@@ -1,0 +1,20 @@
+# STAAD.Pro temporary/generated files
+*.bak
+*.tmp
+*.log
+*.lck
+*.err
+*.dsp
+*.dis
+*.rea
+*.bmd
+*.scn
+*.est
+*.ejs
+*.etj
+*.dgn
+*.anl~
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
